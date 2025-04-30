@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import { useState } from "react";
 import { Code, Brain, Target, PenTool, Award, Book, Globe } from "lucide-react";
 import { cn } from "@/lib/utils";
 
